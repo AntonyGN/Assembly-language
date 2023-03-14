@@ -3,7 +3,7 @@ In this repository, you will find resources and examples of the basics in assemb
 
 To start, I have provided a ```Hello World``` program written in assembly language. This program will display the message "Hello, World!" on the screen. The program has been written for the Linux operating system using the NASM assembler.
 
-To run the program, you will need to have NASM and a Linux operating system installed on your machine or use an [Online Assembly Compiler](http://tpcg.io/_1G96A7).
+To run the program, you will need to have NASM and a Linux operating system installed on your machine or use an [Online Assembly Compiler](https://www.tutorialspoint.com/compile_assembly_online.php).
 
 # Below is a screenshot of program structure 
 <p align="justified">
